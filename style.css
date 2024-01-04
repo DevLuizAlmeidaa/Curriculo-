@@ -24,8 +24,8 @@ header{
 }
 header > h1{
     padding: 10px;
+    font-family: 'arial', Georgia, 'Times New Roman', Times, serif, cursive;
     font-size: 1.8em;
-
 
 }
 #fotoid{
