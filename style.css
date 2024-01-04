@@ -31,9 +31,11 @@ header > h1{
 #fotoid{
     margin: 35px;
     border-radius: 50%;
-    border-color: #ffffff;
+    border-color: #333030;
     border-style: solid;
-    border-width: 2px;
+    border-width: 3px;
+    box-shadow: 0px 0px 1px black;
+    
 
     
 }
